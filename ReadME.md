@@ -59,7 +59,7 @@ masjid/
 
 1. Download or clone this repository
    ```bash
-   git clone https://github.com/your-username/masjid-website.git
+   git clone https://github.com/AflalMohamed/Masjid.git
 
 
 Move the project to your server directory
@@ -91,9 +91,6 @@ Add new pages easily
 ### ⏰ Member
 <img src="screenshots/member.png" width="80%" alt="Vehicle Listing">
 
-
-### 🖼 Gallery Section
-<img src="screenshots/Gallery.png" width="80%" alt="Gallery Page">
 
 ### 📩 admin Section
 <img src="screenshots/admin.png" width="80%" alt="Contact Page">
